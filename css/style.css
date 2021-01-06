@@ -158,7 +158,6 @@ ul li a{
     box-shadow: 10px 10px 40px #fff; 
     margin-right: 30px;
     border-radius: 10px;
-    transition: all .5s ease;
 }
 
 .project_item h2{
@@ -177,10 +176,6 @@ ul li a{
     margin-bottom: 20px;
     color: #6C6C6C;
     font-size: 14px;
-}
-
-.project_item:hover{
-    transform: scale(.8);
 }
 
 /* bonus_content div css statrs here  */
